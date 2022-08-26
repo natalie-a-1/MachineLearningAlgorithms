@@ -1,4 +1,4 @@
-<p align = 'center># MachineLearningAlgorithms </p>
+<p align = 'center'> # MachineLearningAlgorithms </p>
 **Description**
 ### Linear Regression
 ### Logistic Regression
